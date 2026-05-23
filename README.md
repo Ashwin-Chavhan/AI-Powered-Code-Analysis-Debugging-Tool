@@ -86,7 +86,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codevault.git
+git clone https://github.com/Ashwin-Chavhan/AI-Powered-Code-Analysis-Debugging-Tool.git
 cd codevault
 
 # Install frontend dependencies
@@ -111,7 +111,7 @@ LLM_MODEL=gpt-3.5-turbo
 
 **Frontend (.env.local)**
 ```env
-REACT_APP_API_URL=http://localhost:8000
+REACT_APP_API_URL= https://ai-powered-code-analysis-debugging.vercel.app/
 ```
 
 ### 3️⃣ Run Development Servers
@@ -127,7 +127,7 @@ cd frontend
 npm run dev
 ```
 
-Visit `http://localhost:5173` to see the app!
+Visit ` https://ai-powered-code-analysis-debugging.vercel.app/ ` to see the app!
 
 ---
 
@@ -239,7 +239,7 @@ Full API docs available at `/docs` (Swagger UI)
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `REACT_APP_API_URL` | http://localhost:8000 | Backend API URL |
+| `REACT_APP_API_URL` | https://github.com/Ashwin-Chavhan/AI-Powered-Code-Analysis-Debugging-Tool.git | Backend API URL |
 | `REACT_APP_ENV` | development | Environment |
 
 ---
